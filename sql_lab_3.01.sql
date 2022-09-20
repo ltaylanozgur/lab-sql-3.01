@@ -1,6 +1,6 @@
 USE sakila;
 
--- 1. Drop column picture from staff.
+-- 1. Drop column picture from staff..
 SELECT * FROM staff;
 
 ALTER TABLE staff
